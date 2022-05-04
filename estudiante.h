@@ -43,14 +43,14 @@ public:
 
 	// get  
 	//string getEstudiante() {return est;} 
-	string getCarnet() { return car;}
-	string getNombres() { return nom;}
-	string getApellidos() { return ape;}
-	string getDireccion() { return dir;}
-	string getTelefono() { return tel;}
-	string getGenero() { return gen;}
-	string getEmail() { return em;}
-	string getFecha_nacimiento() { return fn;}
+	string getCarnet() { return carnet;}
+	string getNombres() { return nombres;}
+	string getApellidos() { return apellidos;}
+	string getDireccion() { return direccion;}
+	string getTelefono() { return telefono;}
+	string getGenero() { return genero;}
+	string getEmail() { return email;}
+	string getFecha_nacimiento() { return fecha_nacimiento;}
 	
 
 	//inicia leer

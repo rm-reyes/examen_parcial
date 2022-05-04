@@ -1,0 +1,32 @@
+﻿  estudiante.cpp
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(17,131): error C2661: 'estudiantes::estudiantes': ninguna función sobrecargada acepta 7 argumentos
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(46,30): error C2065: 'car': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(47,31): error C2065: 'nom': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(48,33): error C2065: 'ape': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(49,33): error C2065: 'dir': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(50,32): error C2065: 'tel': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(51,30): error C2065: 'gen': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(52,29): error C2065: 'em': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(53,40): error C2065: 'fn': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(94,211): error C2676: '+' binario: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(117,172): error C2676: '+' binario: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+  examen_parcial.cpp
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(17,131): error C2661: 'estudiantes::estudiantes': ninguna función sobrecargada acepta 7 argumentos
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(46,30): error C2065: 'car': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(47,31): error C2065: 'nom': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(48,33): error C2065: 'ape': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(49,33): error C2065: 'dir': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(50,32): error C2065: 'tel': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(51,30): error C2065: 'gen': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(52,29): error C2065: 'em': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(53,40): error C2065: 'fn': identificador no declarado
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(94,211): error C2676: '+' binario: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\estudiante.h(117,172): error C2676: '+' binario: 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' no define este operador o una conversión a un tipo aceptable para el operador predefinido
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\examen_parcial.cpp(42,113): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'estudiantes'
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\examen_parcial.cpp(42,113): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\examen_parcial.cpp(68,111): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'estudiantes'
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\examen_parcial.cpp(68,111): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\examen_parcial.cpp(94,111): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'estudiantes'
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\examen_parcial.cpp(94,111): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\examen_parcial.cpp(121,111): error C2440: '<function-style-cast>': no se puede realizar la conversión de 'initializer list' a 'estudiantes'
+C:\Users\Rita\Desktop\Nueva carpeta\examen_parcial\examen_parcial.cpp(121,111): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua
